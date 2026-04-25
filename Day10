@@ -1,6 +1,6 @@
 1) Create a Map with data type String for Key and Integer for Values and print the same;
 
-package assign;
+package assgn;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -22,7 +22,7 @@ for (Map.Entry<String, Integer> entry : map.entrySet()) {
 
 2) Write a program to handle exception
 
-package assign;
+package assgn;
 
 public class ExceptionHandling {
 
